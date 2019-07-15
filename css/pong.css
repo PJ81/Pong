@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0
+}
+
+body {
+  align-content: center;
+  align-items: center;
+  background: #333;
+  display: flex;
+  margin: 0;
+}
+
+canvas {
+  image-rendering: pixelated;
+  height: 99vh;
+  margin: 0 auto;
+  background: #000;
+  border: 2px solid #fff;
+  border-left: none;
+  border-right: none;
+}
